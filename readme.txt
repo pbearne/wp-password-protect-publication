@@ -45,4 +45,4 @@ Password is in plain text in the DB
 N/A
 
 = Pull requests = 
-I will look at all pull requests. Please submit them here https://github.com/pbearne/     GGG
+I will look at all pull requests. Please submit them here https://github.com/pbearne/wp-password-protect-publication
