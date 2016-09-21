@@ -3,7 +3,7 @@
  * Plugin Name:    WP password protect publication
  * Plugin URI:     http://bearne.ca
  * Description:    Protect your posts from publication / updates with password
- * Version:        1.0
+ * Version:        1.0.1
  * Author:         pbearne
  * Author URI:     http://bearne.ca
  * License:        GNU General Public License
